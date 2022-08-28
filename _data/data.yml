@@ -3,192 +3,208 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Douglas Andrade
+  tagline: Desenvolvedor backend
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: douglasandrademiguel@gmail.com
+  phone: +55 (11) 93618-3634
+  timezone: America/Sao_Paulo
+  citizenship:
+  website: douglasmiguel7.github.io/blog #do not add http://
+  linkedin: douglasmiguel7
+  # xing: alandoe
+  github: douglasmiguel7
+  # telegram: # add your nickname without '@' sign
+  # gitlab:
+  # bitbucket:
+  # twitter: '@webjeda'
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
+  # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: Português (Brasil)
+      level: Nativo
 
-      - idiom: French
-        level: Professional
+    - idiom: English
+      level: Técnico Intermediario
 
-      - idiom: Spanish
-        level: Professional
+  interests:
+    - item: Academia
+      link:
 
-    interests:
-      - item: Climbing
-        link:
+    - item: Cozinhar
+      link:
 
-      - item: Snowboarding
-        link:
+    - item: Games
+      link:
 
-      - item: Cooking
-        link:
+    - item: Fotografia
+      link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  - degree: Graduação em Tecnologia de Análise e Desenvolvimento de Sistemas
+    university: FMU
+    time: 2015 - 2017
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - role: Desenvolvedor Backend
+    # time: 2021 - 2022
+    company: Gympass, São Paulo - Brasil
+    details: |
+        - Desenvolvimento de API's REST com Koltin e SpringBoot
+        - Consumação de API's internas
+        - Análise do status dos serviços através de DataDog
+        - Aplicação de design patterns para aprimorar desenvolvimento
+        - Manutenção em aplicações utilizando Go/Scala
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+  - role: Instrutor de TI
+    # time: 2020 - 2021
+    company: Caelum, São Paulo - Brasil
+    details: |
+        - Elaboração de aulas baseado na metodologia da organização
+        - Aplicação de exercícios
+        - Elaboração de aulas com foco no desenvolvimento dos alunos
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - role: Desenvolvedor Backend
+    # time: 2021 - 2022
+    company: Control iD, São Paulo - Brasil
+    details: |
+        - Desenvolvimento em diversas linguagens (Delphi, Python, Node, Express, Java, C# etc)
+        - Atendimento de integradores via e-mail/telefone
+        - Desenvolvimento de exemplos de código
+        - Criação de SDK's
+        - Manutenção da documentação
+        - Criação de documentação no Postman
+        - Criação de wrapper's para ESC/POS
+        - Criação de bibliotecas para acelerar integração
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - role: Desenvolvedor Backend
+    # time: 2017 - 2019
+    company: Docket, São Paulo - Brasil
+    details: |
+        - Desenvolvimento web com SpringBoot
+        - Ajustes em front-end utilizando Thymeleaf
+        - Criação de repositório Maven para uso interno
+        - Otimização no processo de build com Maven
+        - Criação de API's RESTful
+        - Consumação de API's externas
+        - Concepção e desenvolvimento de POC's
+        - Ajustes em front-end utilizando EmberJS
+        - Mentoria para novos membros na equipe de TI
+        - Implementação de design patterns
+        - Aplicação de conceitos clean code
+        - Automatização do processo de extração de relatórios financeiros no PostgreSQL
+        - Desenvolvimento web com Spring MVC
+        - Desenvolvimento front-end com tema MaterialAdmin
+        - Criação de querys no banco de dados PostgreSQL
+        - Ajustes em JSP
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Habilidades
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: Go & Gorilla
+      level: 20%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: Java
+      level: 85%
 
-      - name: Angular
-        level: 98%
+    - name: Spring
+      level: 85%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Kotlin
+      level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: Node & Express
+      level: 60%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: React
+      level: 30%
+
+    - name: Vue
+      level: 30%
+
+    - name: HTML & CSS
+      level: 10%
+
+    - name: SQL
+      level: 80%
+
+    - name: Python & Flask
+      level: 15%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
