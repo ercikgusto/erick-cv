@@ -6,11 +6,11 @@
 
 🇧🇷
 
-Veja meu CV clicando [aqui](https:douglasmiguel7.github.io/online-cv).
+Veja meu CV clicando [aqui](https://douglasmiguel7.github.io/online-cv).
 
 🇺🇸
 
-See my resume by clicking [here](https:douglasmiguel7.github.io/online-cv).
+See my resume by clicking [here](https://douglasmiguel7.github.io/online-cv).
 
 ## Credits
 
